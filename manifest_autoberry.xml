@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+        <remote name="github" fetch="https://github.com/" />
+
+        <!-- Raspdroid Product  -->
+	<project path="vendor/auto-berry/autoberry" name="auto-berry/proprietary_vendor_autoberry" remote="github" revision="android-14.0.0_r22" />
+</manifest>
+
